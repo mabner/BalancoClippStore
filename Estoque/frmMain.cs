@@ -35,7 +35,7 @@ namespace Balanco
                 return;
             }
         }
-        
+
         private void btnPesquisar_Click(object sender, EventArgs e)
         {
             long barras = Convert.ToInt64(txtBarras.Text);

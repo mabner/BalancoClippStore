@@ -1,7 +1,7 @@
-﻿using System;
+﻿using FirebirdSql.Data.FirebirdClient;
+using System;
 using System.Configuration;
 using System.Data;
-using FirebirdSql.Data.FirebirdClient;
 
 namespace Balanco
 {
