@@ -1,0 +1,794 @@
+﻿<Mappings><Entry OldName="Balanco.AcessoFB.instanciaFireBird" NewName="A.&#x1B;.&#x1B;" />
+<Entry OldName="Balanco.frmMain.components" NewName="A.&#x1C;.&#x1B;" />
+<Entry OldName="Balanco.frmMain.txtDescricao" NewName="A.&#x1C;.&#x1B;" />
+<Entry OldName="Balanco.frmMain.btnSalvar" NewName="A.&#x1C;.&#x1B;" />
+<Entry OldName="Balanco.frmMain.btnPesquisar" NewName="A.&#x1C;.&#x1C;" />
+<Entry OldName="Balanco.frmMain.lblQtd" NewName="A.&#x1C;.&#x1B;" />
+<Entry OldName="Balanco.frmMain.lblDesc" NewName="A.&#x1C;.&#x1C;" />
+<Entry OldName="Balanco.frmMain.lblBarras" NewName="A.&#x1C;.&#x14;" />
+<Entry OldName="Balanco.frmMain.txtBarras" NewName="A.&#x1C;.&#x1C;" />
+<Entry OldName="Balanco.frmMain.txtQtd" NewName="A.&#x1C;.&#x14;" />
+<Entry OldName="Balanco.frmMain.btnZerar" NewName="A.&#x1C;.&#x14;" />
+<Entry OldName="Balanco.Produto.&lt;Barras&gt;k__BackingField" NewName="A.&#x14;.&#x1B;" />
+<Entry OldName="Balanco.Produto.&lt;Descricao&gt;k__BackingField" NewName="A.&#x14;.&#x1B;" />
+<Entry OldName="Balanco.Produto.&lt;Quantidade&gt;k__BackingField" NewName="A.&#x14;.&#x1C;" />
+<Entry OldName="Balanco.Properties.Resources.resourceMan" NewName="A.&#x8;.&#x1B;" />
+<Entry OldName="Balanco.Properties.Resources.resourceCulture" NewName="A.&#x8;.&#x1B;" />
+<Entry OldName="Balanco.AcessoFB..ctor()" NewName="A.&#x1B;..ctor()" />
+<Entry OldName="Balanco.AcessoFB..cctor()" NewName="A.&#x1B;..cctor()" />
+<Entry OldName="Balanco.AcessoFB.getInstancia()" NewName="A.&#x1B;.&#x1B;()" />
+<Entry OldName="Balanco.AcessoFB.getConexao()" NewName="A.&#x1B;.&#x1B;()" />
+<Entry OldName="Balanco.AcessoFB.fb_GetDados()" NewName="A.&#x1B;.&#x1B;()" />
+<Entry OldName="Balanco.AcessoFB.fb_ProcuraDados(Int64 barra)" NewName="A.&#x1B;.&#x1B;(Int64 &#x1B;)" />
+<Entry OldName="Balanco.AcessoFB.fb_AlterarDados(Produto prod)" NewName="A.&#x1B;.&#x1B;(&#x14; &#x1B;)" />
+<Entry OldName="Balanco.AcessoFB.fb_ZeraQtd()" NewName="A.&#x1B;.&#x1B;()" />
+<Entry OldName="Balanco.frmMain..ctor()" NewName="A.&#x1C;..ctor()" />
+<Entry OldName="Balanco.frmMain.frmMain_Load(Object sender, EventArgs e)" NewName="A.&#x1C;.&#x1B;(Object &#x1B;, EventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.frmMain_FormClosed(Object sender, FormClosedEventArgs e)" NewName="A.&#x1C;.&#x1B;(Object &#x1B;, FormClosedEventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.btnPesquisar_Click(Object sender, EventArgs e)" NewName="A.&#x1C;.&#x1C;(Object &#x1B;, EventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.preencheDados(Produto prod)" NewName="A.&#x1C;.&#x1B;(&#x14; &#x1B;)" />
+<Entry OldName="Balanco.frmMain.btnSalvar_Click(Object sender, EventArgs e)" NewName="A.&#x1C;.&#x14;(Object &#x1B;, EventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.btnZerar_Click(Object sender, EventArgs e)" NewName="A.&#x1C;.&#xE;(Object &#x1B;, EventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.txtQtd_TextChanged(Object sender, EventArgs e)" NewName="A.&#x1C;.&#x8;(Object &#x1B;, EventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.txtBarras_KeyDown(Object sender, KeyEventArgs e)" NewName="A.&#x1C;.&#x1B;(Object &#x1B;, KeyEventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.txtQtd_KeyDown(Object sender, KeyEventArgs e)" NewName="A.&#x1C;.&#x1C;(Object &#x1B;, KeyEventArgs &#x1C;)" />
+<Entry OldName="Balanco.frmMain.Dispose(Boolean disposing)" NewName="A.&#x1C;.Dispose(Boolean disposing)" />
+<Entry OldName="Balanco.frmMain.InitializeComponent()" NewName="A.&#x1C;.&#x1B;()" />
+<Entry OldName="Balanco.Produto..ctor()" NewName="A.&#x14;..ctor()" />
+<Entry OldName="Balanco.Produto.get_Barras()" NewName="A.&#x14;.get_Barras()" />
+<Entry OldName="Balanco.Produto.set_Barras(Int64 value)" NewName="A.&#x14;.set_Barras(Int64 value)" />
+<Entry OldName="Balanco.Produto.get_Descricao()" NewName="A.&#x14;.get_Descricao()" />
+<Entry OldName="Balanco.Produto.set_Descricao(String value)" NewName="A.&#x14;.set_Descricao(String value)" />
+<Entry OldName="Balanco.Produto.get_Quantidade()" NewName="A.&#x14;.get_Quantidade()" />
+<Entry OldName="Balanco.Produto.set_Quantidade(Int64 value)" NewName="A.&#x14;.set_Quantidade(Int64 value)" />
+<Entry OldName="Balanco.Program.Main()" NewName="A.&#xE;.&#x1B;()" />
+<Entry OldName="Balanco.Program.CurrentDomain_AssemblyResolve(Object sender, ResolveEventArgs args)" NewName="A.&#xE;.&#x1B;(Object &#x1B;, ResolveEventArgs &#x1C;)" />
+<Entry OldName="Balanco.Properties.Resources..ctor()" NewName="A.&#x8;..ctor()" />
+<Entry OldName="Balanco.Properties.Resources.get_ResourceManager()" NewName="A.&#x8;.get_ResourceManager()" />
+<Entry OldName="Balanco.Properties.Resources.get_Culture()" NewName="A.&#x8;.get_Culture()" />
+<Entry OldName="Balanco.Properties.Resources.set_Culture(CultureInfo value)" NewName="A.&#x8;.set_Culture(CultureInfo value)" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbConnection..ctor(String )" NewName="A.&#x17;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbConnection..ctor(String )" NewName="A.&#x17;..cctor()" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbConnection..ctor(String )" NewName="A.&#x17;.Invoke(String )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbConnection..ctor(String )" NewName="A.&#x17;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.&#x10;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.&#x10;..cctor()" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.&#x10;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Object.ToString()" NewName="A.&#x10;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Configuration.ConnectionStringSettingsCollection.get_Item(String )" NewName="A.&#x12;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Configuration.ConnectionStringSettingsCollection.get_Item(String )" NewName="A.&#x12;..cctor()" />
+<Entry OldName="Proxy_System.Configuration.ConnectionStringSettingsCollection.get_Item(String )" NewName="A.&#x12;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Configuration.ConnectionStringSettingsCollection.get_Item(String )" NewName="A.&#x12;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Configuration.ConfigurationManager.get_ConnectionStrings()" NewName="A.&#x5;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Configuration.ConfigurationManager.get_ConnectionStrings()" NewName="A.&#x5;..cctor()" />
+<Entry OldName="Proxy_System.Configuration.ConfigurationManager.get_ConnectionStrings()" NewName="A.&#x5;.Invoke()" />
+<Entry OldName="Proxy_System.Configuration.ConfigurationManager.get_ConnectionStrings()" NewName="A.&#x5;.&#x1B;()" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.&#xD;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.&#xD;..cctor()" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.&#xD;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IDisposable.Dispose()" NewName="A.&#xD;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Close()" NewName="A.&#x1E;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Close()" NewName="A.&#x1E;..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Close()" NewName="A.&#x1E;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Close()" NewName="A.&#x1E;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Data.Common.DbDataAdapter.Fill(DataTable )" NewName="A.&#x13;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataAdapter.Fill(DataTable )" NewName="A.&#x13;..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbDataAdapter.Fill(DataTable )" NewName="A.&#x13;.Invoke(Object , DataTable )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataAdapter.Fill(DataTable )" NewName="A.&#x13;.&#x1B;(Object &#x1B;, DataTable &#x1C;)" />
+<Entry OldName="Proxy_System.Data.DataTable..ctor()" NewName="A.&#xF;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.DataTable..ctor()" NewName="A.&#xF;..cctor()" />
+<Entry OldName="Proxy_System.Data.DataTable..ctor()" NewName="A.&#xF;.Invoke()" />
+<Entry OldName="Proxy_System.Data.DataTable..ctor()" NewName="A.&#xF;.&#x1B;()" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbDataAdapter..ctor(FbCommand )" NewName="A.&#x19;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbDataAdapter..ctor(FbCommand )" NewName="A.&#x19;..cctor()" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbDataAdapter..ctor(FbCommand )" NewName="A.&#x19;.Invoke(FbCommand )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbDataAdapter..ctor(FbCommand )" NewName="A.&#x19;.&#x1B;(FbCommand &#x1B;)" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand..ctor(String , FbConnection )" NewName="A.&#x7;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand..ctor(String , FbConnection )" NewName="A.&#x7;..cctor()" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand..ctor(String , FbConnection )" NewName="A.&#x7;.Invoke(String , FbConnection )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand..ctor(String , FbConnection )" NewName="A.&#x7;.&#x1B;(String &#x1B;, FbConnection &#x1C;)" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Open()" NewName="A.&#x11;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Open()" NewName="A.&#x11;..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Open()" NewName="A.&#x11;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Data.Common.DbConnection.Open()" NewName="A.&#x11;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.Read()" NewName="A.	..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.Read()" NewName="A.	..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.Read()" NewName="A.	.Invoke(Object )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.Read()" NewName="A.	.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_A.&#x14;.set_Quantidade(Int64 value)" NewName="A.&#x16;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.set_Quantidade(Int64 value)" NewName="A.&#x16;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.set_Quantidade(Int64 value)" NewName="A.&#x16;.Invoke(Object , Int64 value)" />
+<Entry OldName="Proxy_A.&#x14;.set_Quantidade(Int64 value)" NewName="A.&#x16;.&#x1B;(Object &#x1B;, Int64 &#x1C;)" />
+<Entry OldName="Proxy_System.Convert.ToInt64(Object )" NewName="A.&#x3;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Convert.ToInt64(Object )" NewName="A.&#x3;..cctor()" />
+<Entry OldName="Proxy_System.Convert.ToInt64(Object )" NewName="A.&#x3;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Convert.ToInt64(Object )" NewName="A.&#x3;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.get_Item(Int32 )" NewName="A.&#x4;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.get_Item(Int32 )" NewName="A.&#x4;..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.get_Item(Int32 )" NewName="A.&#x4;.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Data.Common.DbDataReader.get_Item(Int32 )" NewName="A.&#x4;.&#x1B;(Object &#x1B;, Int32 &#x1C;)" />
+<Entry OldName="Proxy_A.&#x14;.set_Descricao(String value)" NewName="A.&#xB;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.set_Descricao(String value)" NewName="A.&#xB;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.set_Descricao(String value)" NewName="A.&#xB;.Invoke(Object , String value)" />
+<Entry OldName="Proxy_A.&#x14;.set_Descricao(String value)" NewName="A.&#xB;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_A.&#x14;.set_Barras(Int64 value)" NewName="A.&#x15;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.set_Barras(Int64 value)" NewName="A.&#x15;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.set_Barras(Int64 value)" NewName="A.&#x15;.Invoke(Object , Int64 value)" />
+<Entry OldName="Proxy_A.&#x14;.set_Barras(Int64 value)" NewName="A.&#x15;.&#x1B;(Object &#x1B;, Int64 &#x1C;)" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader()" NewName="A.&#x1;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader()" NewName="A.&#x1;..cctor()" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader()" NewName="A.&#x1;.Invoke(Object )" />
+<Entry OldName="Proxy_FirebirdSql.Data.FirebirdClient.FbCommand.ExecuteReader()" NewName="A.&#x1;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.&#xA;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.&#xA;..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.&#xA;.Invoke(Object , Object , Object )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object , Object )" NewName="A.&#xA;.&#x1B;(Object &#x1B;, Object &#x1C;, Object &#x14;)" />
+<Entry OldName="Proxy_System.Data.Common.DbCommand.ExecuteNonQuery()" NewName="A.&#x1B;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Data.Common.DbCommand.ExecuteNonQuery()" NewName="A.&#x1B;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Data.Common.DbCommand.ExecuteNonQuery()" NewName="A.&#x1B;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Data.Common.DbCommand.ExecuteNonQuery()" NewName="A.&#x1B;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.Concat(Object[] )" NewName="A.&#x1C;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(Object[] )" NewName="A.&#x1C;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(Object[] )" NewName="A.&#x1C;&#x1C;.Invoke(Object[] )" />
+<Entry OldName="Proxy_System.String.Concat(Object[] )" NewName="A.&#x1C;&#x1C;.&#x1B;(Object[] &#x1B;)" />
+<Entry OldName="Proxy_A.&#x14;.get_Barras()" NewName="A.&#x14;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.get_Barras()" NewName="A.&#x14;&#x1C;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.get_Barras()" NewName="A.&#x14;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_A.&#x14;.get_Barras()" NewName="A.&#x14;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_A.&#x14;.get_Quantidade()" NewName="A.&#xE;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.get_Quantidade()" NewName="A.&#xE;&#x1C;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.get_Quantidade()" NewName="A.&#xE;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_A.&#x14;.get_Quantidade()" NewName="A.&#xE;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(ProcessStartInfo )" NewName="A.&#x8;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(ProcessStartInfo )" NewName="A.&#x8;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(ProcessStartInfo )" NewName="A.&#x8;&#x1C;.Invoke(ProcessStartInfo )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(ProcessStartInfo )" NewName="A.&#x8;&#x1C;.&#x1B;(ProcessStartInfo &#x1B;)" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_FileName(String )" NewName="A.&#x18;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_FileName(String )" NewName="A.&#x18;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_FileName(String )" NewName="A.&#x18;&#x1C;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_FileName(String )" NewName="A.&#x18;&#x1C;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_CreateNoWindow(Boolean )" NewName="A.&#xC;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_CreateNoWindow(Boolean )" NewName="A.&#xC;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_CreateNoWindow(Boolean )" NewName="A.&#xC;&#x1C;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_CreateNoWindow(Boolean )" NewName="A.&#xC;&#x1C;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_WindowStyle(ProcessWindowStyle )" NewName="A.&#x1D;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_WindowStyle(ProcessWindowStyle )" NewName="A.&#x1D;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_WindowStyle(ProcessWindowStyle )" NewName="A.&#x1D;&#x1C;.Invoke(Object , ProcessWindowStyle )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_WindowStyle(ProcessWindowStyle )" NewName="A.&#x1D;&#x1C;.&#x1B;(Object &#x1B;, ProcessWindowStyle &#x1C;)" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_Arguments(String )" NewName="A.&#x1A;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_Arguments(String )" NewName="A.&#x1A;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_Arguments(String )" NewName="A.&#x1A;&#x1C;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo.set_Arguments(String )" NewName="A.&#x1A;&#x1C;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.&#x6;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.&#x6;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.&#x6;&#x1C;.Invoke(String , String )" />
+<Entry OldName="Proxy_System.String.Concat(String , String )" NewName="A.&#x6;&#x1C;.&#x1B;(String &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.get_ExecutablePath()" NewName="A.&#x1F;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.get_ExecutablePath()" NewName="A.&#x1F;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.get_ExecutablePath()" NewName="A.&#x1F;&#x1C;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.get_ExecutablePath()" NewName="A.&#x1F;&#x1C;.&#x1B;()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo..ctor()" NewName="A. &#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo..ctor()" NewName="A. &#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo..ctor()" NewName="A. &#x1C;.Invoke()" />
+<Entry OldName="Proxy_System.Diagnostics.ProcessStartInfo..ctor()" NewName="A. &#x1C;.&#x1B;()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Exit()" NewName="A.&#x2;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Exit()" NewName="A.&#x2;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Exit()" NewName="A.&#x2;&#x1C;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Exit()" NewName="A.&#x2;&#x1C;.&#x1B;()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(String , String )" NewName="A.&#x17;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(String , String )" NewName="A.&#x17;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(String , String )" NewName="A.&#x17;&#x1C;.Invoke(String , String )" />
+<Entry OldName="Proxy_System.Diagnostics.Process.Start(String , String )" NewName="A.&#x17;&#x1C;.&#x1B;(String &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Object.Equals(Object )" NewName="A.&#x10;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object.Equals(Object )" NewName="A.&#x10;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Object.Equals(Object )" NewName="A.&#x10;&#x1C;.Invoke(Object , Object )" />
+<Entry OldName="Proxy_System.Object.Equals(Object )" NewName="A.&#x10;&#x1C;.&#x1B;(Object &#x1B;, Object &#x1C;)" />
+<Entry OldName="Proxy_System.Environment.get_OSVersion()" NewName="A.&#x12;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Environment.get_OSVersion()" NewName="A.&#x12;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Environment.get_OSVersion()" NewName="A.&#x12;&#x1C;.Invoke()" />
+<Entry OldName="Proxy_System.Environment.get_OSVersion()" NewName="A.&#x12;&#x1C;.&#x1B;()" />
+<Entry OldName="Proxy_System.DateTime.op_GreaterThanOrEqual(DateTime , DateTime )" NewName="A.&#x5;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.DateTime.op_GreaterThanOrEqual(DateTime , DateTime )" NewName="A.&#x5;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.DateTime.op_GreaterThanOrEqual(DateTime , DateTime )" NewName="A.&#x5;&#x1C;.Invoke(DateTime , DateTime )" />
+<Entry OldName="Proxy_System.DateTime.op_GreaterThanOrEqual(DateTime , DateTime )" NewName="A.&#x5;&#x1C;.&#x1B;(DateTime &#x1B;, DateTime &#x1C;)" />
+<Entry OldName="Proxy_System.DateTime.get_Now()" NewName="A.&#xD;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.DateTime.get_Now()" NewName="A.&#xD;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.DateTime.get_Now()" NewName="A.&#xD;&#x1C;.Invoke()" />
+<Entry OldName="Proxy_System.DateTime.get_Now()" NewName="A.&#xD;&#x1C;.&#x1B;()" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String , String , MessageBoxButtons )" NewName="A.&#x1E;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String , String , MessageBoxButtons )" NewName="A.&#x1E;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String , String , MessageBoxButtons )" NewName="A.&#x1E;&#x1C;.Invoke(String , String , MessageBoxButtons )" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String , String , MessageBoxButtons )" NewName="A.&#x1E;&#x1C;.&#x1B;(String &#x1B;, String &#x1C;, MessageBoxButtons &#x14;)" />
+<Entry OldName="Proxy_System.Exception.get_Message()" NewName="A.&#x13;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Exception.get_Message()" NewName="A.&#x13;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Exception.get_Message()" NewName="A.&#x13;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Exception.get_Message()" NewName="A.&#x13;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Convert.ToInt64(String )" NewName="A.&#xF;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Convert.ToInt64(String )" NewName="A.&#xF;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Convert.ToInt64(String )" NewName="A.&#xF;&#x1C;.Invoke(String )" />
+<Entry OldName="Proxy_System.Convert.ToInt64(String )" NewName="A.&#xF;&#x1C;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Text()" NewName="A.&#x19;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Text()" NewName="A.&#x19;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Text()" NewName="A.&#x19;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Text()" NewName="A.&#x19;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.&#x7;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.&#x7;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.&#x7;&#x1C;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Text(String )" NewName="A.&#x7;&#x1C;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Int64.ToString()" NewName="A.&#x11;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int64.ToString()" NewName="A.&#x11;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Int64.ToString()" NewName="A.&#x11;&#x1C;.Invoke(Int64&amp; )" />
+<Entry OldName="Proxy_System.Int64.ToString()" NewName="A.&#x11;&#x1C;.&#x1B;(Int64&amp; &#x1B;)" />
+<Entry OldName="Proxy_A.&#x14;.get_Descricao()" NewName="A.	&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_A.&#x14;.get_Descricao()" NewName="A.	&#x1C;..cctor()" />
+<Entry OldName="Proxy_A.&#x14;.get_Descricao()" NewName="A.	&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_A.&#x14;.get_Descricao()" NewName="A.	&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String )" NewName="A.&#x16;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String )" NewName="A.&#x16;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String )" NewName="A.&#x16;&#x1C;.Invoke(String )" />
+<Entry OldName="Proxy_System.Windows.Forms.MessageBox.Show(String )" NewName="A.&#x16;&#x1C;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.&#x3;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.&#x3;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.&#x3;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.MoveNext()" NewName="A.&#x3;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.Trim()" NewName="A.&#x4;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Trim()" NewName="A.&#x4;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.String.Trim()" NewName="A.&#x4;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.String.Trim()" NewName="A.&#x4;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.Replace(Char , Char )" NewName="A.&#xB;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Replace(Char , Char )" NewName="A.&#xB;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.String.Replace(Char , Char )" NewName="A.&#xB;&#x1C;.Invoke(Object , Char , Char )" />
+<Entry OldName="Proxy_System.String.Replace(Char , Char )" NewName="A.&#xB;&#x1C;.&#x1B;(Object &#x1B;, Char &#x1C;, Char &#x14;)" />
+<Entry OldName="Proxy_System.Char.IsDigit(Char )" NewName="A.&#x15;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Char.IsDigit(Char )" NewName="A.&#x15;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Char.IsDigit(Char )" NewName="A.&#x15;&#x1C;.Invoke(Char )" />
+<Entry OldName="Proxy_System.Char.IsDigit(Char )" NewName="A.&#x15;&#x1C;.&#x1B;(Char &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;System.Char&gt;.get_Current()" NewName="A.&#x1;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;System.Char&gt;.get_Current()" NewName="A.&#x1;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;System.Char&gt;.get_Current()" NewName="A.&#x1;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerator`1&lt;System.Char&gt;.get_Current()" NewName="A.&#x1;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;System.Char&gt;.GetEnumerator()" NewName="A.&#xA;&#x1C;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;System.Char&gt;.GetEnumerator()" NewName="A.&#xA;&#x1C;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;System.Char&gt;.GetEnumerator()" NewName="A.&#xA;&#x1C;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Generic.IEnumerable`1&lt;System.Char&gt;.GetEnumerator()" NewName="A.&#xA;&#x1C;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.ToCharArray()" NewName="A.&#x1B;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.ToCharArray()" NewName="A.&#x1B;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.String.ToCharArray()" NewName="A.&#x1B;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.String.ToCharArray()" NewName="A.&#x1B;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Focus()" NewName="A.&#x1C;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Focus()" NewName="A.&#x1C;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Focus()" NewName="A.&#x1C;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.Focus()" NewName="A.&#x1C;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Button.PerformClick()" NewName="A.&#x14;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Button.PerformClick()" NewName="A.&#x14;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Button.PerformClick()" NewName="A.&#x14;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Button.PerformClick()" NewName="A.&#x14;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.KeyEventArgs.get_KeyCode()" NewName="A.&#xE;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.KeyEventArgs.get_KeyCode()" NewName="A.&#xE;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.KeyEventArgs.get_KeyCode()" NewName="A.&#xE;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.KeyEventArgs.get_KeyCode()" NewName="A.&#xE;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.&#x8;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.&#x8;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.&#x8;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.Dispose(Boolean )" NewName="A.&#x8;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.&#x18;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.&#x18;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.&#x18;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.PerformLayout()" NewName="A.&#x18;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.&#xC;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.&#xC;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.&#xC;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ResumeLayout(Boolean )" NewName="A.&#xC;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.&#x1D;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.&#x1D;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.&#x1D;&#x14;.Invoke(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_Load(EventHandler )" NewName="A.&#x1D;&#x14;.&#x1B;(Object &#x1B;, EventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_FormClosed(FormClosedEventHandler )" NewName="A.&#x1A;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_FormClosed(FormClosedEventHandler )" NewName="A.&#x1A;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_FormClosed(FormClosedEventHandler )" NewName="A.&#x1A;&#x14;.Invoke(Object , FormClosedEventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.add_FormClosed(FormClosedEventHandler )" NewName="A.&#x1A;&#x14;.&#x1B;(Object &#x1B;, FormClosedEventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.&#x6;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.&#x6;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.&#x6;&#x14;.Invoke(Object , FormStartPosition )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_StartPosition(FormStartPosition )" NewName="A.&#x6;&#x14;.&#x1B;(Object &#x1B;, FormStartPosition &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.&#x1F;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.&#x1F;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.&#x1F;&#x14;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.&#x1F;&#x14;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Name(String )" NewName="A.&#x1F;&#x14;.&#x1C;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_MaximizeBox(Boolean )" NewName="A. &#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_MaximizeBox(Boolean )" NewName="A. &#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_MaximizeBox(Boolean )" NewName="A. &#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_MaximizeBox(Boolean )" NewName="A. &#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_KeyPreview(Boolean )" NewName="A.&#x2;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_KeyPreview(Boolean )" NewName="A.&#x2;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_KeyPreview(Boolean )" NewName="A.&#x2;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_KeyPreview(Boolean )" NewName="A.&#x2;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.&#x17;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.&#x17;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.&#x17;&#x14;.Invoke(Object , Icon )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_Icon(Icon )" NewName="A.&#x17;&#x14;.&#x1B;(Object &#x1B;, Icon &#x1C;)" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.&#x10;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.&#x10;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.&#x10;&#x14;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager.GetObject(String )" NewName="A.&#x10;&#x14;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.&#x12;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.&#x12;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.&#x12;&#x14;.Invoke(Object , FormBorderStyle )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_FormBorderStyle(FormBorderStyle )" NewName="A.&#x12;&#x14;.&#x1B;(Object &#x1B;, FormBorderStyle &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.&#x5;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.&#x5;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.&#x5;&#x14;.Invoke(Object , Control )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.ControlCollection.Add(Control )" NewName="A.&#x5;&#x14;.&#x1B;(Object &#x1B;, Control &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.&#xD;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.&#xD;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.&#xD;&#x14;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.get_Controls()" NewName="A.&#xD;&#x14;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.&#x1E;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.&#x1E;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.&#x1E;&#x14;.Invoke(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Form.set_ClientSize(Size )" NewName="A.&#x1E;&#x14;.&#x1B;(Object &#x1B;, Size &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackgroundImageLayout(ImageLayout )" NewName="A.&#x13;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackgroundImageLayout(ImageLayout )" NewName="A.&#x13;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackgroundImageLayout(ImageLayout )" NewName="A.&#x13;&#x14;.Invoke(Object , ImageLayout )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_BackgroundImageLayout(ImageLayout )" NewName="A.&#x13;&#x14;.&#x1B;(Object &#x1B;, ImageLayout &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.&#xF;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.&#xF;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.&#xF;&#x14;.Invoke(Object , AutoScaleMode )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleMode(AutoScaleMode )" NewName="A.&#xF;&#x14;.&#x1B;(Object &#x1B;, AutoScaleMode &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.&#x19;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.&#x19;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.&#x19;&#x14;.Invoke(Object , SizeF )" />
+<Entry OldName="Proxy_System.Windows.Forms.ContainerControl.set_AutoScaleDimensions(SizeF )" NewName="A.&#x19;&#x14;.&#x1B;(Object &#x1B;, SizeF &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_Click(EventHandler )" NewName="A.&#x7;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_Click(EventHandler )" NewName="A.&#x7;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_Click(EventHandler )" NewName="A.&#x7;&#x14;.Invoke(Object , EventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_Click(EventHandler )" NewName="A.&#x7;&#x14;.&#x1B;(Object &#x1B;, EventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.ButtonBase.set_UseVisualStyleBackColor(Boolean )" NewName="A.&#x11;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.ButtonBase.set_UseVisualStyleBackColor(Boolean )" NewName="A.&#x11;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.ButtonBase.set_UseVisualStyleBackColor(Boolean )" NewName="A.&#x11;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.ButtonBase.set_UseVisualStyleBackColor(Boolean )" NewName="A.&#x11;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.	&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.	&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.	&#x14;.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabIndex(Int32 )" NewName="A.	&#x14;.&#x1B;(Object &#x1B;, Int32 &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.&#x16;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.&#x16;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.&#x16;&#x14;.Invoke(Object , Size )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Size(Size )" NewName="A.&#x16;&#x14;.&#x1B;(Object &#x1B;, Size &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.&#x3;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.&#x3;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.&#x3;&#x14;.Invoke(Object , Point )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Location(Point )" NewName="A.&#x3;&#x14;.&#x1B;(Object &#x1B;, Point &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_KeyDown(KeyEventHandler )" NewName="A.&#x4;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_KeyDown(KeyEventHandler )" NewName="A.&#x4;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_KeyDown(KeyEventHandler )" NewName="A.&#x4;&#x14;.Invoke(Object , KeyEventHandler )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.add_KeyDown(KeyEventHandler )" NewName="A.&#x4;&#x14;.&#x1B;(Object &#x1B;, KeyEventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.&#xB;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.&#xB;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.&#xB;&#x14;.Invoke(Object , Font )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Font(Font )" NewName="A.&#xB;&#x14;.&#x1B;(Object &#x1B;, Font &#x1C;)" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.&#x15;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.&#x15;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.&#x15;&#x14;.Invoke(String , Single , FontStyle , GraphicsUnit , Byte )" />
+<Entry OldName="Proxy_System.Drawing.Font..ctor(String , Single , FontStyle , GraphicsUnit , Byte )" NewName="A.&#x15;&#x14;.&#x1B;(String &#x1B;, Single &#x1C;, FontStyle &#x14;, GraphicsUnit &#xE;, Byte &#x8;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.&#x1;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.&#x1;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.&#x1;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_AutoSize(Boolean )" NewName="A.&#x1;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox.set_AcceptsReturn(Boolean )" NewName="A.&#xA;&#x14;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox.set_AcceptsReturn(Boolean )" NewName="A.&#xA;&#x14;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox.set_AcceptsReturn(Boolean )" NewName="A.&#xA;&#x14;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox.set_AcceptsReturn(Boolean )" NewName="A.&#xA;&#x14;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabStop(Boolean )" NewName="A.&#x1B;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabStop(Boolean )" NewName="A.&#x1B;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabStop(Boolean )" NewName="A.&#x1B;&#xE;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_TabStop(Boolean )" NewName="A.&#x1B;&#xE;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Enabled(Boolean )" NewName="A.&#x1C;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Enabled(Boolean )" NewName="A.&#x1C;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Enabled(Boolean )" NewName="A.&#x1C;&#xE;.Invoke(Object , Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.set_Enabled(Boolean )" NewName="A.&#x1C;&#xE;.&#x1B;(Object &#x1B;, Boolean &#x1C;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.&#x14;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.&#x14;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.&#x14;&#xE;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Windows.Forms.Control.SuspendLayout()" NewName="A.&#x14;&#xE;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Button..ctor()" NewName="A.&#xE;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Button..ctor()" NewName="A.&#xE;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Button..ctor()" NewName="A.&#xE;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Button..ctor()" NewName="A.&#xE;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox..ctor()" NewName="A.&#x8;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox..ctor()" NewName="A.&#x8;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox..ctor()" NewName="A.&#x8;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.TextBox..ctor()" NewName="A.&#x8;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.&#x18;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.&#x18;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.&#x18;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Label..ctor()" NewName="A.&#x18;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.&#xC;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.&#xC;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.&#xC;&#xE;.Invoke(Type )" />
+<Entry OldName="Proxy_System.ComponentModel.ComponentResourceManager..ctor(Type )" NewName="A.&#xC;&#xE;.&#x1B;(Type &#x1B;)" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.&#x1D;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.&#x1D;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.&#x1D;&#xE;.Invoke(RuntimeTypeHandle )" />
+<Entry OldName="Proxy_System.Type.GetTypeFromHandle(RuntimeTypeHandle )" NewName="A.&#x1D;&#xE;.&#x1B;(RuntimeTypeHandle &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.&#x1A;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.&#x1A;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.&#x1A;&#xE;.Invoke(Form )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.Run(Form )" NewName="A.&#x1A;&#xE;.&#x1B;(Form &#x1B;)" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.&#x6;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.&#x6;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.&#x6;&#xE;.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_AssemblyResolve(ResolveEventHandler )" NewName="A.&#x6;&#xE;.&#x1B;(Object &#x1B;, ResolveEventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.&#x1F;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.&#x1F;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.&#x1F;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.AppDomain.get_CurrentDomain()" NewName="A.&#x1F;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A. &#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A. &#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A. &#xE;.Invoke(Boolean )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.SetCompatibleTextRenderingDefault(Boolean )" NewName="A. &#xE;.&#x1B;(Boolean &#x1B;)" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.&#x2;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.&#x2;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.&#x2;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Windows.Forms.Application.EnableVisualStyles()" NewName="A.&#x2;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.&#x17;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.&#x17;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.&#x17;&#xE;.Invoke(Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] )" NewName="A.&#x17;&#xE;.&#x1B;(Byte[] &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.&#x10;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.&#x10;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.&#x10;&#xE;.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Read(Byte[] , Int32 , Int32 )" NewName="A.&#x10;&#xE;.&#x1B;(Object &#x1B;, Byte[] &#x1C;, Int32 &#x14;, Int32 &#xE;)" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.&#x12;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.&#x12;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.&#x12;&#xE;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Length()" NewName="A.&#x12;&#xE;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.&#x5;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.&#x5;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.&#x5;&#xE;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceStream(String )" NewName="A.&#x5;&#xE;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.&#xD;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.&#xD;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.&#xD;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetExecutingAssembly()" NewName="A.&#xD;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.&#x1E;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.&#x1E;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.&#x1E;&#xE;.Invoke(String , Assembly )" />
+<Entry OldName="Proxy_System.Resources.ResourceManager..ctor(String , Assembly )" NewName="A.&#x1E;&#xE;.&#x1B;(String &#x1B;, Assembly &#x1C;)" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.&#x13;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.&#x13;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.&#x13;&#xE;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Type.get_Assembly()" NewName="A.&#x13;&#xE;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.&#xF;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.&#xF;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.&#xF;&#xE;.Invoke(SettingsBase )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.Synchronized(SettingsBase )" NewName="A.&#xF;&#xE;.&#x1B;(SettingsBase &#x1B;)" />
+<Entry OldName="Proxy_Balanco.Properties.Settings..ctor()" NewName="A.&#x19;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_Balanco.Properties.Settings..ctor()" NewName="A.&#x19;&#xE;..cctor()" />
+<Entry OldName="Proxy_Balanco.Properties.Settings..ctor()" NewName="A.&#x19;&#xE;.Invoke()" />
+<Entry OldName="Proxy_Balanco.Properties.Settings..ctor()" NewName="A.&#x19;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.get_Item(String )" NewName="A.&#x7;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.get_Item(String )" NewName="A.&#x7;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.get_Item(String )" NewName="A.&#x7;&#xE;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.Configuration.SettingsBase.get_Item(String )" NewName="A.&#x7;&#xE;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.&#x11;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.&#x11;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.&#x11;&#xE;.Invoke()" />
+<Entry OldName="Proxy_System.Object..ctor()" NewName="A.&#x11;&#xE;.&#x1B;()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.	&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.	&#xE;..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.	&#xE;.Invoke(Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream..ctor(Int32 )" NewName="A.	&#xE;.&#x1B;(Int32 &#x1B;)" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.&#x16;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.&#x16;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.&#x16;&#xE;.Invoke(Object , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.String.Substring(Int32 , Int32 )" NewName="A.&#x16;&#xE;.&#x1B;(Object &#x1B;, Int32 &#x1C;, Int32 &#x14;)" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.&#x3;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.&#x3;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.&#x3;&#xE;.Invoke(Object , Char )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char )" NewName="A.&#x3;&#xE;.&#x1B;(Object &#x1B;, Char &#x1C;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.&#x4;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.&#x4;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.&#x4;&#xE;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_FullName()" NewName="A.&#x4;&#xE;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.&#xB;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.&#xB;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.&#xB;&#xE;.Invoke(Array )" />
+<Entry OldName="Proxy_System.Array.Reverse(Array )" NewName="A.&#xB;&#xE;.&#x1B;(Array &#x1B;)" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.&#x15;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.&#x15;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.&#x15;&#xE;.Invoke(Int64 )" />
+<Entry OldName="Proxy_System.BitConverter.GetBytes(Int64 )" NewName="A.&#x15;&#xE;.&#x1B;(Int64 &#x1B;)" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.&#x1;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.&#x1;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.&#x1;&#xE;.Invoke(String , NumberStyles )" />
+<Entry OldName="Proxy_System.Int64.Parse(String , NumberStyles )" NewName="A.&#x1;&#xE;.&#x1B;(String &#x1B;, NumberStyles &#x1C;)" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.&#xA;&#xE;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.&#xA;&#xE;..cctor()" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.&#xA;&#xE;.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.String.get_Chars(Int32 )" NewName="A.&#xA;&#xE;.&#x1B;(Object &#x1B;, Int32 &#x1C;)" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.&#x1B;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.&#x1B;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.&#x1B;&#x8;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.IndexOf(String )" NewName="A.&#x1B;&#x8;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.&#x1C;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.&#x1C;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.&#x1C;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Exit(Object )" NewName="A.&#x1C;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.&#x14;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.&#x14;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.&#x14;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Threading.Monitor.Enter(Object )" NewName="A.&#x14;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.&#xE;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.&#xE;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.&#xE;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.get_Position()" NewName="A.&#xE;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.&#x8;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.&#x8;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.&#x8;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.ToArray()" NewName="A.&#x8;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.&#x18;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.&#x18;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.&#x18;&#x8;.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.IO.Stream.Write(Byte[] , Int32 , Int32 )" NewName="A.&#x18;&#x8;.&#x1B;(Object &#x1B;, Byte[] &#x1C;, Int32 &#x14;, Int32 &#xE;)" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.&#xC;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.&#xC;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.&#xC;&#x8;.Invoke(Stream , CompressionMode )" />
+<Entry OldName="Proxy_System.IO.Compression.DeflateStream..ctor(Stream , CompressionMode )" NewName="A.&#xC;&#x8;.&#x1B;(Stream &#x1B;, CompressionMode &#x1C;)" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.&#x1D;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.&#x1D;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.&#x1D;&#x8;.Invoke(Object , Int64 )" />
+<Entry OldName="Proxy_System.IO.Stream.set_Position(Int64 )" NewName="A.&#x1D;&#x8;.&#x1B;(Object &#x1B;, Int64 &#x1C;)" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.&#x1A;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.&#x1A;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.&#x1A;&#x8;.Invoke(Object , Int32 )" />
+<Entry OldName="Proxy_System.IO.MemoryStream.set_Capacity(Int32 )" NewName="A.&#x1A;&#x8;.&#x1B;(Object &#x1B;, Int32 &#x1C;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.&#x6;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.&#x6;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.&#x6;&#x8;.Invoke(Object , Byte[] , Int32 , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformFinalBlock(Byte[] , Int32 , Int32 )" NewName="A.&#x6;&#x8;.&#x1B;(Object &#x1B;, Byte[] &#x1C;, Int32 &#x14;, Int32 &#xE;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.&#x1F;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.&#x1F;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.&#x1F;&#x8;.Invoke(Object , Byte[] , Int32 , Int32 , Byte[] , Int32 )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.TransformBlock(Byte[] , Int32 , Int32 , Byte[] , Int32 )" NewName="A.&#x1F;&#x8;.&#x1B;(Object &#x1B;, Byte[] &#x1C;, Int32 &#x14;, Int32 &#xE;, Byte[] &#x8;, Int32 &#x18;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A. &#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A. &#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A. &#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_InputBlockSize()" NewName="A. &#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.&#x2;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.&#x2;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.&#x2;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.ICryptoTransform.get_OutputBlockSize()" NewName="A.&#x2;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.&#x17;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.&#x17;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.&#x17;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.CreateDecryptor()" NewName="A.&#x17;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.&#x10;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.&#x10;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.&#x10;&#x8;.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_Key(Byte[] )" NewName="A.&#x10;&#x8;.&#x1B;(Object &#x1B;, Byte[] &#x1C;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.&#x12;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.&#x12;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.&#x12;&#x8;.Invoke(Object , Byte[] )" />
+<Entry OldName="Proxy_System.Security.Cryptography.SymmetricAlgorithm.set_IV(Byte[] )" NewName="A.&#x12;&#x8;.&#x1B;(Object &#x1B;, Byte[] &#x1C;)" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.&#x5;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.&#x5;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.&#x5;&#x8;.Invoke()" />
+<Entry OldName="Proxy_System.Security.Cryptography.DESCryptoServiceProvider..ctor()" NewName="A.&#x5;&#x8;.&#x1B;()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.&#xD;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.&#xD;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.&#xD;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.ReadByte()" NewName="A.&#xD;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.&#x1E;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.&#x1E;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.&#x1E;&#x8;.Invoke(String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(String )" NewName="A.&#x1E;&#x8;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.&#x13;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.&#x13;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.&#x13;&#x8;.Invoke(Object , ResolveEventHandler )" />
+<Entry OldName="Proxy_System.AppDomain.add_ResourceResolve(ResolveEventHandler )" NewName="A.&#x13;&#x8;.&#x1B;(Object &#x1B;, ResolveEventHandler &#x1C;)" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.&#xF;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.&#xF;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.&#xF;&#x8;.Invoke(Object , String )" />
+<Entry OldName="Proxy_System.String.StartsWith(String )" NewName="A.&#xF;&#x8;.&#x1B;(Object &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.&#x19;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.&#x19;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.&#x19;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.ResolveEventArgs.get_Name()" NewName="A.&#x19;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.&#x7;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.&#x7;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.&#x7;&#x8;.Invoke(Object , Object )" />
+<Entry OldName="Proxy_System.String.Concat(Object , Object )" NewName="A.&#x7;&#x8;.&#x1B;(Object &#x1B;, Object &#x1C;)" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.&#x11;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.&#x11;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.&#x11;&#x8;.Invoke(String , String )" />
+<Entry OldName="Proxy_System.String.op_Equality(String , String )" NewName="A.&#x11;&#x8;.&#x1B;(String &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.	&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.	&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.	&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.GetManifestResourceNames()" NewName="A.	&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.Hashtable..ctor()" NewName="A.&#x16;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Hashtable..ctor()" NewName="A.&#x16;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Hashtable..ctor()" NewName="A.&#x16;&#x8;.Invoke()" />
+<Entry OldName="Proxy_System.Collections.Hashtable..ctor()" NewName="A.&#x16;&#x8;.&#x1B;()" />
+<Entry OldName="Proxy_System.Collections.Hashtable.set_Item(Object , Object )" NewName="A.&#x3;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.set_Item(Object , Object )" NewName="A.&#x3;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Hashtable.set_Item(Object , Object )" NewName="A.&#x3;&#x8;.Invoke(Object , Object , Object )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.set_Item(Object , Object )" NewName="A.&#x3;&#x8;.&#x1B;(Object &#x1B;, Object &#x1C;, Object &#x14;)" />
+<Entry OldName="Proxy_System.IO.Stream.Close()" NewName="A.&#x4;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Stream.Close()" NewName="A.&#x4;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.Stream.Close()" NewName="A.&#x4;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.Stream.Close()" NewName="A.&#x4;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.IO.FileStream..ctor(String , FileMode , FileAccess )" NewName="A.&#xB;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.FileStream..ctor(String , FileMode , FileAccess )" NewName="A.&#xB;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.FileStream..ctor(String , FileMode , FileAccess )" NewName="A.&#xB;&#x8;.Invoke(String , FileMode , FileAccess )" />
+<Entry OldName="Proxy_System.IO.FileStream..ctor(String , FileMode , FileAccess )" NewName="A.&#xB;&#x8;.&#x1B;(String &#x1B;, FileMode &#x1C;, FileAccess &#x14;)" />
+<Entry OldName="Proxy_System.IO.FileInfo.get_Length()" NewName="A.&#x15;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.FileInfo.get_Length()" NewName="A.&#x15;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.FileInfo.get_Length()" NewName="A.&#x15;&#x8;.Invoke(Object )" />
+<Entry OldName="Proxy_System.IO.FileInfo.get_Length()" NewName="A.&#x15;&#x8;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.IO.FileInfo..ctor(String )" NewName="A.&#x1;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.FileInfo..ctor(String )" NewName="A.&#x1;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.FileInfo..ctor(String )" NewName="A.&#x1;&#x8;.Invoke(String )" />
+<Entry OldName="Proxy_System.IO.FileInfo..ctor(String )" NewName="A.&#x1;&#x8;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.IO.File.Exists(String )" NewName="A.&#xA;&#x8;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.File.Exists(String )" NewName="A.&#xA;&#x8;..cctor()" />
+<Entry OldName="Proxy_System.IO.File.Exists(String )" NewName="A.&#xA;&#x8;.Invoke(String )" />
+<Entry OldName="Proxy_System.IO.File.Exists(String )" NewName="A.&#xA;&#x8;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Path.Combine(String , String )" NewName="A.&#x1B;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Path.Combine(String , String )" NewName="A.&#x1B;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.IO.Path.Combine(String , String )" NewName="A.&#x1B;&#x18;.Invoke(String , String )" />
+<Entry OldName="Proxy_System.IO.Path.Combine(String , String )" NewName="A.&#x1B;&#x18;.&#x1B;(String &#x1B;, String &#x1C;)" />
+<Entry OldName="Proxy_System.IO.Path.GetDirectoryName(String )" NewName="A.&#x1C;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Path.GetDirectoryName(String )" NewName="A.&#x1C;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.IO.Path.GetDirectoryName(String )" NewName="A.&#x1C;&#x18;.Invoke(String )" />
+<Entry OldName="Proxy_System.IO.Path.GetDirectoryName(String )" NewName="A.&#x1C;&#x18;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_Location()" NewName="A.&#x14;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_Location()" NewName="A.&#x14;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_Location()" NewName="A.&#x14;&#x18;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.get_Location()" NewName="A.&#x14;&#x18;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Int32.Parse(String , IFormatProvider )" NewName="A.&#xE;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Int32.Parse(String , IFormatProvider )" NewName="A.&#xE;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Int32.Parse(String , IFormatProvider )" NewName="A.&#xE;&#x18;.Invoke(String , IFormatProvider )" />
+<Entry OldName="Proxy_System.Int32.Parse(String , IFormatProvider )" NewName="A.&#xE;&#x18;.&#x1B;(String &#x1B;, IFormatProvider &#x1C;)" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_InvariantCulture()" NewName="A.&#x8;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_InvariantCulture()" NewName="A.&#x8;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_InvariantCulture()" NewName="A.&#x8;&#x18;.Invoke()" />
+<Entry OldName="Proxy_System.Globalization.CultureInfo.get_InvariantCulture()" NewName="A.&#x8;&#x18;.&#x1B;()" />
+<Entry OldName="Proxy_System.String.IndexOf(Char , Int32 )" NewName="A.&#x18;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char , Int32 )" NewName="A.&#x18;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.String.IndexOf(Char , Int32 )" NewName="A.&#x18;&#x18;.Invoke(Object , Char , Int32 )" />
+<Entry OldName="Proxy_System.String.IndexOf(Char , Int32 )" NewName="A.&#x18;&#x18;.&#x1B;(Object &#x1B;, Char &#x1C;, Int32 &#x14;)" />
+<Entry OldName="Proxy_System.String.Split(Char[] )" NewName="A.&#xC;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Split(Char[] )" NewName="A.&#xC;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.String.Split(Char[] )" NewName="A.&#xC;&#x18;.Invoke(Object , Char[] )" />
+<Entry OldName="Proxy_System.String.Split(Char[] )" NewName="A.&#xC;&#x18;.&#x1B;(Object &#x1B;, Char[] &#x1C;)" />
+<Entry OldName="Proxy_System.String..ctor(Char[] )" NewName="A.&#x1D;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String..ctor(Char[] )" NewName="A.&#x1D;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.String..ctor(Char[] )" NewName="A.&#x1D;&#x18;.Invoke(Char[] )" />
+<Entry OldName="Proxy_System.String..ctor(Char[] )" NewName="A.&#x1D;&#x18;.&#x1B;(Char[] &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Directory.CreateDirectory(String )" NewName="A.&#x1A;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Directory.CreateDirectory(String )" NewName="A.&#x1A;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.IO.Directory.CreateDirectory(String )" NewName="A.&#x1A;&#x18;.Invoke(String )" />
+<Entry OldName="Proxy_System.IO.Directory.CreateDirectory(String )" NewName="A.&#x1A;&#x18;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.IO.Path.GetTempPath()" NewName="A.&#x6;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.IO.Path.GetTempPath()" NewName="A.&#x6;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.IO.Path.GetTempPath()" NewName="A.&#x6;&#x18;.Invoke()" />
+<Entry OldName="Proxy_System.IO.Path.GetTempPath()" NewName="A.&#x6;&#x18;.&#x1B;()" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.&#x1F;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.&#x1F;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.&#x1F;&#x18;.Invoke(String , String , StringComparison )" />
+<Entry OldName="Proxy_System.String.Equals(String , String , StringComparison )" NewName="A.&#x1F;&#x18;.&#x1B;(String &#x1B;, String &#x1C;, StringComparison &#x14;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.LoadFile(String )" NewName="A. &#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.LoadFile(String )" NewName="A. &#x18;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.LoadFile(String )" NewName="A. &#x18;.Invoke(String )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.LoadFile(String )" NewName="A. &#x18;.&#x1B;(String &#x1B;)" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.&#x2;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.&#x2;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.&#x2;&#x18;.Invoke(Byte[] , Byte[] )" />
+<Entry OldName="Proxy_System.Reflection.Assembly.Load(Byte[] , Byte[] )" NewName="A.&#x2;&#x18;.&#x1B;(Byte[] &#x1B;, Byte[] &#x1C;)" />
+<Entry OldName="Proxy_System.String.get_Length()" NewName="A.&#x17;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.String.get_Length()" NewName="A.&#x17;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.String.get_Length()" NewName="A.&#x17;&#x18;.Invoke(Object )" />
+<Entry OldName="Proxy_System.String.get_Length()" NewName="A.&#x17;&#x18;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Item(Object )" NewName="A.&#x10;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Item(Object )" NewName="A.&#x10;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Item(Object )" NewName="A.&#x10;&#x18;.Invoke(Object , Object )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Item(Object )" NewName="A.&#x10;&#x18;.&#x1B;(Object &#x1B;, Object &#x1C;)" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.get_Current()" NewName="A.&#x12;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.get_Current()" NewName="A.&#x12;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.get_Current()" NewName="A.&#x12;&#x18;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.IEnumerator.get_Current()" NewName="A.&#x12;&#x18;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.IEnumerable.GetEnumerator()" NewName="A.&#x5;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.IEnumerable.GetEnumerator()" NewName="A.&#x5;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Collections.IEnumerable.GetEnumerator()" NewName="A.&#x5;&#x18;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.IEnumerable.GetEnumerator()" NewName="A.&#x5;&#x18;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Keys()" NewName="A.&#xD;&#x18;..ctor(Object , IntPtr )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Keys()" NewName="A.&#xD;&#x18;..cctor()" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Keys()" NewName="A.&#xD;&#x18;.Invoke(Object )" />
+<Entry OldName="Proxy_System.Collections.Hashtable.get_Keys()" NewName="A.&#xD;&#x18;.&#x1B;(Object &#x1B;)" />
+<Entry OldName="Balanco.AcessoFB" NewName="A.&#x1B;" />
+<Entry OldName="Balanco.frmMain" NewName="A.&#x1C;" />
+<Entry OldName="Balanco.Produto" NewName="A.&#x14;" />
+<Entry OldName="Balanco.Program" NewName="A.&#xE;" />
+<Entry OldName="Balanco.Properties.Resources" NewName="A.&#x8;" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\AcessoFB.cs" NewName="File0" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\frmMain.cs" NewName="File1" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\frmMain.Designer.cs" NewName="File2" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Produto.cs" NewName="File3" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Program.cs" NewName="File4" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Properties\Resources.Designer.cs" NewName="File5" />
+<Entry OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Properties\Settings.Designer.cs" NewName="File6" />
+<Assembly Name="BalacoClippStore"><Type Token="33554433" Name="&lt;Module&gt;" />
+<Method Token="100663297" Name="" Variables="" ParamCnt="0" />
+<Type Token="33554434" Name="Balanco.AcessoFB" />
+<Method Token="100663298" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663299" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663300" Name="getInstancia" Variables="" ParamCnt="0" />
+<Method Token="100663301" Name="getConexao" Variables="this;" ParamCnt="1" />
+<Method Token="100663302" Name="fb_GetDados" Variables="conexaoFireBird;dt;V_2;" ParamCnt="0" />
+<Method Token="100663303" Name="fb_ProcuraDados" Variables="barra;conexaoFireBird;dr;prod;V_3;" ParamCnt="1" />
+<Method Token="100663304" Name="fb_AlterarDados" Variables="prod;conexaoFireBird;" ParamCnt="1" />
+<Method Token="100663305" Name="fb_ZeraQtd" Variables="conexaoFireBird;" ParamCnt="0" />
+<Field Token="67108865" Name="instanciaFireBird" />
+<Type Token="33554436" Name="Balanco.frmMain" />
+<Method Token="100663307" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663308" Name="frmMain_Load" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663309" Name="frmMain_FormClosed" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663310" Name="btnPesquisar_Click" Variables="this;sender;e;barras;produto;" ParamCnt="3" />
+<Method Token="100663311" Name="preencheDados" Variables="this;prod;V_0;" ParamCnt="2" />
+<Method Token="100663312" Name="btnSalvar_Click" Variables="this;sender;e;prod;" ParamCnt="3" />
+<Method Token="100663313" Name="btnZerar_Click" Variables="this;sender;e;dialogResult;" ParamCnt="3" />
+<Method Token="100663314" Name="txtQtd_TextChanged" Variables="this;sender;e;actualdata;V_1;aChar;" ParamCnt="3" />
+<Method Token="100663315" Name="txtBarras_KeyDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663316" Name="txtQtd_KeyDown" Variables="this;sender;e;" ParamCnt="3" />
+<Method Token="100663317" Name="Dispose" Variables="this;disposing;" ParamCnt="2" />
+<Method Token="100663318" Name="InitializeComponent" Variables="this;resources;" ParamCnt="1" />
+<Field Token="67108866" Name="components" />
+<Field Token="67108867" Name="txtDescricao" />
+<Field Token="67108868" Name="btnSalvar" />
+<Field Token="67108869" Name="btnPesquisar" />
+<Field Token="67108870" Name="lblQtd" />
+<Field Token="67108871" Name="lblDesc" />
+<Field Token="67108872" Name="lblBarras" />
+<Field Token="67108873" Name="txtBarras" />
+<Field Token="67108874" Name="txtQtd" />
+<Field Token="67108875" Name="btnZerar" />
+<Type Token="33554438" Name="Balanco.Produto" />
+<Method Token="100663325" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663326" Name="get_Barras" Variables="this;" ParamCnt="1" />
+<Method Token="100663327" Name="set_Barras" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663328" Name="get_Descricao" Variables="this;" ParamCnt="1" />
+<Method Token="100663329" Name="set_Descricao" Variables="this;value;" ParamCnt="2" />
+<Method Token="100663330" Name="get_Quantidade" Variables="this;" ParamCnt="1" />
+<Method Token="100663331" Name="set_Quantidade" Variables="this;value;" ParamCnt="2" />
+<Field Token="67108877" Name="&lt;Barras&gt;k__BackingField" />
+<Field Token="67108878" Name="&lt;Descricao&gt;k__BackingField" />
+<Field Token="67108879" Name="&lt;Quantidade&gt;k__BackingField" />
+<Type Token="33554439" Name="Balanco.Program" />
+<Method Token="100663332" Name="Main" Variables="" ParamCnt="0" />
+<Method Token="100663333" Name="CurrentDomain_AssemblyResolve" Variables="sender;args;stream;assemblyData;V_2;" ParamCnt="2" />
+<Type Token="33554440" Name="Balanco.Properties.Resources" />
+<Method Token="100663334" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663335" Name="get_ResourceManager" Variables="" ParamCnt="0" />
+<Method Token="100663336" Name="get_Culture" Variables="" ParamCnt="0" />
+<Method Token="100663337" Name="set_Culture" Variables="value;" ParamCnt="1" />
+<Field Token="67108880" Name="resourceMan" />
+<Field Token="67108881" Name="resourceCulture" />
+<Type Token="33554442" Name="Balanco.Properties.Settings" />
+<Method Token="100663345" Name=".ctor" Variables="this;" ParamCnt="1" />
+<Method Token="100663346" Name=".cctor" Variables="" ParamCnt="0" />
+<Method Token="100663347" Name="get_Default" Variables="" ParamCnt="0" />
+<Method Token="100663348" Name="get_Setting" Variables="this;" ParamCnt="1" />
+<Field Token="67108884" Name="defaultInstance" />
+<Type Token="33554435" Name="A.AssemblyInfoAttribute" />
+<Method Token="100663306" Name="" Variables="this;str;" ParamCnt="2" />
+</Assembly><File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\AcessoFB.cs" NewName="File0" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\frmMain.cs" NewName="File1" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\frmMain.Designer.cs" NewName="File2" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Produto.cs" NewName="File3" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Program.cs" NewName="File4" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Properties\Resources.Designer.cs" NewName="File5" />
+<File OldName="C:\Users\mleit\Desktop\Estoque\Estoque\Properties\Settings.Designer.cs" NewName="File6" />
+</Mappings>
