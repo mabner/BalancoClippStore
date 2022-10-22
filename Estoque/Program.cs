@@ -22,7 +22,8 @@ namespace Balanco
         {
             using (var stream = Assembly.GetExecutingAssembly().GetManifestResourceStream("FirebirdSql.Data.FirebirdClient.dll"))
             {
-                byte[] assemblyData = new byte[stream.Length];
+                byte[] bytes = new byte[stream.Length];
+                byte[] assemblyData = bytes;
                 stream.Read(assemblyData, 0, assemblyData.Length);
                 return Assembly.Load(assemblyData);
             }

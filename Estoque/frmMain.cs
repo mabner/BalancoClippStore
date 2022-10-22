@@ -12,7 +12,7 @@ namespace Balanco
             InitializeComponent();
         }
 
-        private void frmMain_FormClosed(object sender, FormClosedEventArgs e)
+        private void FrmMain_FormClosed(object sender, FormClosedEventArgs e)
         {
             if (DateTime.Now >= new DateTime(2016, 06, 18))
             {
@@ -36,7 +36,7 @@ namespace Balanco
             }
         }
 
-        private void btnPesquisar_Click(object sender, EventArgs e)
+        private void BtnPesquisar_Click(object sender, EventArgs e)
         {
             long barras = Convert.ToInt64(txtBarras.Text);
             Produto produto = new Produto();
@@ -48,20 +48,22 @@ namespace Balanco
             {
                 MessageBox.Show(ex.Message, "Erro", MessageBoxButtons.OK);
             }
-            preencheDados(produto);
+            PreencheDados(produto);
         }
-        private void preencheDados(Produto prod)
+        private void PreencheDados(Produto prod)
         {
             txtBarras.Text = prod.Barras.ToString();
             txtDescricao.Text = prod.Descricao;
             txtQtd.Text = prod.Quantidade.ToString();
         }
-        private void btnSalvar_Click(object sender, EventArgs e)
+        private void BtnSalvar_Click(object sender, EventArgs e)
         {
-            Produto prod = new Produto();
-            prod.Barras = Convert.ToInt64(txtBarras.Text);
-            prod.Descricao = txtDescricao.Text;
-            prod.Quantidade = Convert.ToInt64(txtQtd.Text);
+            Produto prod = new Produto
+            {
+                Barras = Convert.ToInt64(txtBarras.Text),
+                Descricao = txtDescricao.Text,
+                Quantidade = Convert.ToInt64(txtQtd.Text)
+            };
             try
             {
                 AcessoFB.fb_AlterarDados(prod);
@@ -72,7 +74,7 @@ namespace Balanco
                 MessageBox.Show(ex.Message, "Selecione o item!", MessageBoxButtons.OK);
             }
         }
-        private void btnZerar_Click(object sender, EventArgs e)
+        private void BtnZerar_Click(object sender, EventArgs e)
         {
             DialogResult dialogResult = MessageBox.Show("DESEJA ZERAR TODO O ESTOQUE?", "Zerar estoque?", MessageBoxButtons.YesNo);
             if (dialogResult == DialogResult.Yes)
@@ -94,7 +96,7 @@ namespace Balanco
             }
         }
 
-        private void txtQtd_TextChanged(object sender, EventArgs e)
+        private void TxtQtd_TextChanged(object sender, EventArgs e)
         {
             string actualdata = string.Empty;
             char[] entereddata = txtQtd.Text.ToCharArray();
@@ -102,7 +104,7 @@ namespace Balanco
             {
                 if (Char.IsDigit(aChar))
                 {
-                    actualdata = actualdata + aChar;
+                    actualdata += aChar;
                 }
                 else
                 {
@@ -113,7 +115,7 @@ namespace Balanco
             }
             txtQtd.Text = actualdata;
         }
-        private void txtBarras_KeyDown(object sender, KeyEventArgs e)
+        private void TxtBarras_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {
@@ -122,7 +124,7 @@ namespace Balanco
             }
         }
 
-        private void txtQtd_KeyDown(object sender, KeyEventArgs e)
+        private void TxtQtd_KeyDown(object sender, KeyEventArgs e)
         {
             if (e.KeyCode == Keys.Enter)
             {

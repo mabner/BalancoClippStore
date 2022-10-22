@@ -1,4 +1,6 @@
-﻿namespace Balanco
+﻿using System;
+
+namespace Balanco
 {
     partial class frmMain
     {
@@ -57,7 +59,7 @@
             this.btnSalvar.TabIndex = 4;
             this.btnSalvar.Text = "&Salvar";
             this.btnSalvar.UseVisualStyleBackColor = true;
-            this.btnSalvar.Click += new System.EventHandler(this.btnSalvar_Click);
+            this.btnSalvar.Click += new System.EventHandler(this.BtnSalvar_Click);
             // 
             // lblQtd
             // 
@@ -77,7 +79,7 @@
             this.btnPesquisar.TabIndex = 3;
             this.btnPesquisar.Text = "P&esquisar";
             this.btnPesquisar.UseVisualStyleBackColor = true;
-            this.btnPesquisar.Click += new System.EventHandler(this.btnPesquisar_Click);
+            this.btnPesquisar.Click += new System.EventHandler(this.BtnPesquisar_Click);
             // 
             // txtBarras
             // 
@@ -86,7 +88,7 @@
             this.txtBarras.Name = "txtBarras";
             this.txtBarras.Size = new System.Drawing.Size(141, 20);
             this.txtBarras.TabIndex = 1;
-            this.txtBarras.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtBarras_KeyDown);
+            this.txtBarras.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TxtBarras_KeyDown);
             // 
             // lblDesc
             // 
@@ -114,7 +116,7 @@
             this.txtQtd.Name = "txtQtd";
             this.txtQtd.Size = new System.Drawing.Size(91, 20);
             this.txtQtd.TabIndex = 2;
-            this.txtQtd.KeyDown += new System.Windows.Forms.KeyEventHandler(this.txtQtd_KeyDown);
+            this.txtQtd.KeyDown += new System.Windows.Forms.KeyEventHandler(this.TxtQtd_KeyDown);
             // 
             // btnZerar
             // 
@@ -124,7 +126,7 @@
             this.btnZerar.TabIndex = 5;
             this.btnZerar.Text = "!";
             this.btnZerar.UseVisualStyleBackColor = true;
-            this.btnZerar.Click += new System.EventHandler(this.btnZerar_Click);
+            this.btnZerar.Click += new System.EventHandler(this.BtnZerar_Click);
             // 
             // frmMain
             // 
@@ -148,8 +150,8 @@
             this.Name = "frmMain";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Balanço Clipp 1.0.0.7";
-            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.frmMain_FormClosed);
-            this.Load += new System.EventHandler(this.frmMain_Load);
+            this.FormClosed += new System.Windows.Forms.FormClosedEventHandler(this.FrmMain_FormClosed);
+            //this.Load += new System.EventHandler(this.frmMain_Load);
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -166,6 +168,7 @@
         public System.Windows.Forms.TextBox txtBarras;
         private System.Windows.Forms.TextBox txtQtd;
         private System.Windows.Forms.Button btnZerar;
+
     }
 }
 
